@@ -1,0 +1,43 @@
+= Fiqh for Economists III Notes
+Khalid Hussain <mohammad.khalid.hussain@gmail.com>
+:imagesdir: assets/images
+:toc: right
+
+== 18 September 2017 (Monday)
+
+=== Waqf
+
+[.lead]
+Def.: A permanent dedication of the corpus of the valuable property by a Muslim to the ownership of Allah for religious, charitable, and pious purposes.
+
+* Waqf property cannot be sold, mortgaged, donated, or alienated, even by inheritance.
+* Only the income produced by Waqf property can be consumed. The Waqf property itself cannot be consumed.
+* Charity to family members is better than charity to strangers. Please see _ḥadīth_ of <<dirham-hadith, (NARRATOR)>>.
+
+== 20 September 2017 (Wednesday)
+
+.Pillars of Waqf
+. Founder [.arabic]#واقف#
+. Waqf property [.arabic]#موقوف#
+. Beneficiaries [.arabic]#موقوف عليه#
+. Expression [.arabic]#صيغة#
+
+== 2 October 2017 (Monday)
+
+NOTE: _Kafārah_ exists even for actions that are considered _muʿāmalāt_. Example: _al-Ẓihār_.
+
+=== Al-Waṣiyyah
+
+. It is a gift from Allah the Mighty and Exalted.
+. It cannot be given to an heir who will inherit. The distinction is important in English as there can be heirs who will not inherit anything.
+. The limit of _waṣiyyah_ is 1/3 of the [.arabic]#مال#. Evidence for this is the _ḥadīth_ of <<will-limit, Saʿd ibn Abī Waqqās>>
+
+==== Waṣiyyah that is greater than one-third
+
+If directed to a stranger, will be given if all the heirs AGREE, otherwise, it will be reduced to the maximum, i.e. one-third, and then given.
+
+If directed to an heir (who will inherit), it will be given if all the other heirs AGREE, otherwise it will be invalidated.
+
+include::hadith_references.adoc[]
+include::questions-and-answers.adoc[]
+include::_glossary.adoc[]
