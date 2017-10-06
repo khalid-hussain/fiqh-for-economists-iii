@@ -1,0 +1,59 @@
+\documentclass[%
+%aspectratio=169,
+xcolor={svgnames, dvipsnames}
+]{beamer}
+
+\usetheme[%
+  numbering=fraction,
+  progressbar=foot,
+  block=fill,
+%  background=dark,
+]
+{metropolis} % Use metropolis theme
+\title{Fiqh for Economists III}
+\date{\today}
+\author{Dr. Ibrahim Nuhu}
+\institute{International Islamic University Malaysia}
+
+\setsansfont[%
+Numbers=OldStyle,
+Scale=1.2,
+BoldFont={MyriadArabic-Bold.otf}, 
+ItalicFont={MyriadArabic-Italic.otf},
+BoldItalicFont={MyriadArabic-BoldItalic.otf}
+]{MyriadArabic-Regular.otf}
+
+\usepackage{xspace}
+\usepackage{xfrac}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+
+\newfontfamily\arabicfont[%
+Script=Arabic,%
+Scale=1.4,%
+]{Scheherazade}
+
+\newfontfamily\arabicsans[%
+Script=Arabic,%
+Numbers=OldStyle,
+BoldFont={MyriadArabic-Bold.otf}, 
+ItalicFont={MyriadArabic-Italic.otf},
+BoldItalicFont={MyriadArabic-BoldItalic.otf}]{MyriadArabic-Regular.otf}
+
+\newfontfamily\arsymbols[
+Scale=1.2%
+]{KFGQPC Arabic Symbols 01}
+
+\newfontfamily\sakkalfont[
+Script=Arabic,%
+Scale=1.2,%
+]{Sakkal Majalla}
+
+\newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
+\begin{document}
+\maketitle
+
+\input{content}
+
+\end{document}
