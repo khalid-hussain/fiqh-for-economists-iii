@@ -1,6 +1,8 @@
 *.html
 
 new_slides/*.aux
+new_slides/*.nav
+new_slides/*.snm
 new_slides/*.glo
 new_slides/*.idx
 new_slides/*.log
