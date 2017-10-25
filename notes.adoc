@@ -3,6 +3,13 @@ Khalid Hussain <mohammad.khalid.hussain@gmail.com>
 :imagesdir: assets/images
 :toc: right
 
+== General
+
+.[.arabic]#حقائق#
+. [.arabic]#حقيقة لغوية#
+. [.arabic]#حقيقة شرعية#
+. [.arabic]#حقيقة عرفية#
+
 == 18 September 2017 (Monday)
 
 === Waqf
@@ -22,11 +29,22 @@ Def.: A permanent dedication of the corpus of the valuable property by a Muslim 
 . Beneficiaries [.arabic]#موقوف عليه#
 . Expression [.arabic]#صيغة#
 
+== 25 September 2017 (Monday)
+
+The conditions of the [.arabic]#واقف# must be respected unless they are invalid Sharīʿah wise.
+
+== 27 September 2017 (Wednesday)
+
+Waṣiyyah existed in the nations before the Prophet Muhammad (Peace be upon him).
+
 == 2 October 2017 (Monday)
 
 NOTE: _Kafārah_ exists even for actions that are considered _muʿāmalāt_. Example: _al-Ẓihār_.
 
 === Al-Waṣiyyah
+
+[.lead]
+Def: A gift that is given after the death of the [.arabic]#موصي#.
 
 . It is a gift from Allah the Mighty and Exalted.
 . It cannot be given to an heir who will inherit. The distinction is important in English as there can be heirs who will not inherit anything.
@@ -37,6 +55,121 @@ NOTE: _Kafārah_ exists even for actions that are considered _muʿāmalāt_. Exa
 If directed to a stranger, will be given if all the heirs AGREE, otherwise, it will be reduced to the maximum, i.e. one-third, and then given.
 
 If directed to an heir (who will inherit), it will be given if all the other heirs AGREE, otherwise it will be invalidated.
+
+== 4 October 2017 (Wednesday)
+
+<Ḥadīth of Abū Dharr: Do not take care of an orphan's wealth or become a leader of two people>
+
+=== Wardship
+
+. The benefit of the child comes first. Preservation of religion is the greatest benefit.
+
+==== Custody
+
+. Who has right to custody after divorce (EXPAND ON THIS SECTION)
+
+== 9 October 2017 (Monday)
+
+A person cannot buy from his ward since there is a clash of interests.
+
+According to (some) Ḥanafīs, _Zakāt_ must be paid on all wealth irrespective of who it belongs to. Be they a ward, an insane person, etc...
+
+.NOTE: I don't know the name of this list
+. [.arabic]#مؤن التجهيز#
+.. Anything the deceased needs until burial. Examples: perfume, ghusl, transport, _kafn_, grave (if it needs to be bought), and wages for gravediggers.
+. [.arabic]#الديول المتعلقة بالتركة عينها#
+.. If Zayd lent money to ʿAmr with the latter's car as guarantee, then that car is part of the estate in the case of ʿAmr's death.
+. [.arabic]#الديول المطلقة في ذمة الميت، (لله أولادمي)#
+. [.arabic]#وصية الميت#
+. [.arabic]#نصيب ورثة الميت#
+
+== 11 October 2017 (Wednesday)
+
+=== Inheritance
+
+[.lead]
+[.arabic]#حق مالي ثبت لمستحق بعد موت من كان له سلة بينهما#
+
+Memorize the following ayāt:
+
+. Ayāt 11, 12, 176 of [.arabic]#النساء#
+. Ayāh 6 of [.arabic]#الأحزاب#
+
+The Islamic system of inheritance is just and distributes rights according to the Lord's absolute wisdom. Whatever the portion may be for any of the inheritors, it is justice.
+
+[quote]
+____
+The only way to beat the Muslims is not by the sword but rather by taking the hijāb from the woman and placing it over the Quran.
+____
+
+. Ustadh Ibrahim has written an article along the lines of “Law of Inheritance from the Book of Allah.” In it, he extracts almost all of the rulings of Inheritance from the Quran without depending on ḥadīth narrations. I have yet to download this and read it.
+.
+
+== 23 October 2017 (Monday)
+
+=== Inheritance (Cont'd)
+
+The important aspect of a foetus with respect to inheritance is that it exists in the womb at the time of the death of the deceased. We are not concerned with whether it is born dead or alive. (Clarification: If born dead, who takes his share?)
+
+.[.arabic]#أسباب الإرث#
+.. [.arabic]#النكاح#
+.. [.arabic]#النسب#
+.. [.arabic]#ولاء#
+
+Assuming at least one of the [.arabic]#أسباب# is present, only the following may deprive one of inheritance.
+
+.Inheritance Deprivers
+.. _Kufr_
+.. Murder
+.. Slavery
+
+== 25 October 2017 (Wednesday)
+
+=== Inheritance (Cont'd)
+
+The murder that is intended when discussing the deprivation of inheritance is the murder of the deceased by one or more of his inheriting heirs.
+
+.Types of Murder
+. Intentional
+. Unintentional
+. Looks intentional but maybe unintentional (Double check this)
+
+According to the Shāfiʿīs, murder of any of these kinds deprives a person from inheritance irrespective of his position to the murder (witness, judge, witness of behavior to a witness, etc...) except for TWO people:
+
+. A ḥadīth narrator (al-Rāwī)
+. A Muftī who passes judgement of death (This requires clarification)
+
+
+==== Slavery
+
+.Types of Slaves
+. [.arabic]#القِنُّو#
+. [.arabic]#المُباَعَض#
+.. A partial slave. Example: Two people buy a slave and then one of them manumits his respective part.
+.. According to the Ḥanbalīs, such a slave may inherit through his free part.
+. [.arabic]#المُكَاتَب#
+.. Needs to pay a certain amount to his master in order to manumit himself.
+.. Involves some issues with _zakāt_.
+. [.arabic]#المُدَبَّرُ#
+.. Becomes free after the death of the master due to an agreement by the latter.
+. [.arabic]#أم ولد#
+.. Consists of two issues.
+... Can she be sold?
+... Does she become free when you die? Yes. The slave is part of the estate of the master and as such will be inherited. Since children cannot enslave their parents and vice versa, the mother will be manumitted. This answer assumes that at least one child will inherit her.
+
+Marrying a slave-girl is not allowed except in TWO cases:
+
+. If he cannot afford to marry a free woman.
+. He fears with certainty that he will commit _zinā_ if he doesn't marry the slave-girl.
+
+// Insert ḥadīth of parent and children that cannot be turned into slaves.
+
+==== Heirs
+
+.Types of Inheriting Heirs
+. Males (15 of them)
+. Females (10 of them)
+. Total of 25.
 
 include::hadith_references.adoc[]
 include::questions-and-answers.adoc[]
