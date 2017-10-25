@@ -30,3 +30,5 @@ new_slides/MyriadArabic-Bold.otf
 new_slides/MyriadArabic-BoldItalic.otf
 new_slides/MyriadArabic-Italic.otf
 new_slides/MyriadArabic-Regular.otf
+new_slides/*.nav
+new_slides/*.pdf
