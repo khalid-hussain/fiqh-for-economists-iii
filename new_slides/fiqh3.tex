@@ -11,20 +11,21 @@ xcolor={svgnames, dvipsnames}
 ]
 {metropolis} % Use metropolis theme
 \title{Fiqh for Economists III}
-\date{\today}
+\date{\Hijritoday}
 \author{Dr. Ibrahim Nuhu}
 \institute{International Islamic University Malaysia}
 
-\setsansfont[%
-Numbers=OldStyle,
-Scale=1.2,
-BoldFont={MyriadArabic-Bold.otf}, 
-ItalicFont={MyriadArabic-Italic.otf},
-BoldItalicFont={MyriadArabic-BoldItalic.otf}
-]{MyriadArabic-Regular.otf}
+%\setsansfont[%
+%Numbers=OldStyle,
+%Scale=1.2,
+%BoldFont={MyriadArabic-Bold.otf}, 
+%ItalicFont={MyriadArabic-Italic.otf},
+%BoldItalicFont={MyriadArabic-BoldItalic.otf}
+%]{MyriadArabic-Regular.otf}
 
 \usepackage{xspace}
 \usepackage{xfrac}
+
 \usepackage{polyglossia}
 \setmainlanguage{english}
 \setotherlanguage{arabic}
@@ -34,12 +35,23 @@ Script=Arabic,%
 Scale=1.4,%
 ]{Scheherazade}
 
+\newfontfamily\arabicfontsf[%
+Script=Arabic,%
+Scale=1.4,%
+]{Calibri}
+
 \newfontfamily\arabicsans[%
 Script=Arabic,%
-Numbers=OldStyle,
-BoldFont={MyriadArabic-Bold.otf}, 
-ItalicFont={MyriadArabic-Italic.otf},
-BoldItalicFont={MyriadArabic-BoldItalic.otf}]{MyriadArabic-Regular.otf}
+Scale=1.2,%
+]{Calibri}
+
+%\newfontfamily\arabicsans[%
+%Script=Arabic,%
+%Numbers=OldStyle,
+%Scale=1.2,%
+%BoldFont={MyriadArabic-Bold.otf}, 
+%ItalicFont={MyriadArabic-Italic.otf},
+%BoldItalicFont={MyriadArabic-BoldItalic.otf}]{MyriadArabic-Regular.otf}
 
 \newfontfamily\arsymbols[
 Scale=1.2%
