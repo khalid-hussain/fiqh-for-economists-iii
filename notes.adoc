@@ -1,7 +1,7 @@
 = Fiqh for Economists III Notes
 Khalid Hussain <mohammad.khalid.hussain@gmail.com>
 :imagesdir: assets/images
-:toc: right
+:toc: left
 
 == General
 
@@ -19,7 +19,7 @@ Def.: A permanent dedication of the corpus of the valuable property by a Muslim 
 
 * Waqf property cannot be sold, mortgaged, donated, or alienated, even by inheritance.
 * Only the income produced by Waqf property can be consumed. The Waqf property itself cannot be consumed.
-* Charity to family members is better than charity to strangers. Please see _ḥadīth_ of <<dirham-hadith, (NARRATOR)>>.
+* Charity to family members is better than charity to strangers. Please see _ḥadīth_ of <<dirham-hadith, Abū Hurayrah>>.
 
 == 20 September 2017 (Wednesday)
 
@@ -35,7 +35,7 @@ The conditions of the [.arabic]#واقف# must be respected unless they are inva
 
 == 27 September 2017 (Wednesday)
 
-Waṣiyyah existed in the nations before the Prophet Muhammad (Peace be upon him).
+Waṣiyyah existed in the nations before the Prophet Muhammad (Peace be upon him). See hadith of <<wasiyyah-nuh, ʿAbdullāh ibn ʿAmr>>.
 
 == 2 October 2017 (Monday)
 
@@ -58,7 +58,7 @@ If directed to an heir (who will inherit), it will be given if all the other hei
 
 == 4 October 2017 (Wednesday)
 
-<Ḥadīth of Abū Dharr: Do not take care of an orphan's wealth or become a leader of two people>
+It is not recommended to become a guardian of orphans' wealth. See the ḥadīth of <<abu-dharr-leadership, Abū Dharr>>.
 
 === Wardship
 
@@ -102,8 +102,7 @@ ____
 The only way to beat the Muslims is not by the sword but rather by taking the hijāb from the woman and placing it over the Quran.
 ____
 
-. Ustadh Ibrahim has written an article along the lines of “Law of Inheritance from the Book of Allah.” In it, he extracts almost all of the rulings of Inheritance from the Quran without depending on ḥadīth narrations. I have yet to download this and read it.
-.
+Ustadh Ibrahim has written an article along the lines of “Law of Inheritance from the Book of Allah.” In it, he extracts almost all of the rulings of Inheritance from the Quran without depending on ḥadīth narrations. I have yet to download this and read it.
 
 == 23 October 2017 (Monday)
 
@@ -130,9 +129,9 @@ Assuming at least one of the [.arabic]#أسباب# is present, only the followin
 The murder that is intended when discussing the deprivation of inheritance is the murder of the deceased by one or more of his inheriting heirs.
 
 .Types of Murder
-. Intentional
-. Unintentional
-. Looks intentional but maybe unintentional (Double check this)
+. [.arabic]#العَمْدُ# Intentional
+. [.arabic]#شِبْهُ العَمْدِ# Looks intentional (Ex: A child dies due to beating by a stick.)
+. [.arabic]#الخَطَأُ# Unintentional
 
 According to the Shāfiʿīs, murder of any of these kinds deprives a person from inheritance irrespective of his position to the murder (witness, judge, witness of behavior to a witness, etc...) except for TWO people:
 
@@ -143,8 +142,8 @@ According to the Shāfiʿīs, murder of any of these kinds deprives a person fro
 ==== Slavery
 
 .Types of Slaves
-. [.arabic]#القِنُّو#
-. [.arabic]#المُباَعَض#
+. [.arabic]#القِنُّ#
+. [.arabic]#المُبَعَضُ#
 .. A partial slave. Example: Two people buy a slave and then one of them manumits his respective part.
 .. According to the Ḥanbalīs, such a slave may inherit through his free part.
 . [.arabic]#المُكَاتَب#
@@ -169,7 +168,35 @@ Marrying a slave-girl is not allowed except in TWO cases:
 .Types of Inheriting Heirs
 . Males (15 of them)
 . Females (10 of them)
-. Total of 25.
+
+.Males
+. [.arabic]#الإبن#
+. [.arabic]#ابن الإبن (وإن نزل)#
+. [.arabic]#الأب#
+. [.arabic]#أب الأب (وأن علا بمحض الذكور)#
+. [.arabic]#الأخ من الأبوين#
+. [.arabic]#الأخ من الأب#
+. [.arabic]#الأخ من الأم#
+. [.arabic]#ابن الأخ من الأبوين (وإن نزل)#
+. [.arabic]#ابن الأخ من الأب (وإن نزل)#
+. [.arabic]#العم من الأبوين (وإن علا)#
+. [.arabic]#العم من الأب (وإن علا)#
+. [.arabic]#ابن العم من الأبوين (وإن نزل)#
+. [.arabic]#ابن العم من الأب (وإن نزل)#
+. [.arabic]#الزوج#
+. [.arabic]#المعتِق#
+
+.Females
+. [.arabic]#البنت#
+. [.arabic]#بنت الأبن (وإن نزل)#
+. [.arabic]#الأم#
+. [.arabic]#أم الأم (وإن علت بمحض الإناث)#
+. [.arabic]#أم الأب (وإن علت بمحض الإناث) أو أم الأب (وإن علا بمحض الذكور)#
+. [.arabic]#الأخت من الأبوين#
+. [.arabic]#الأخت من الأب#
+. [.arabic]#الأخت من الأم#
+. [.arabic]#الزوجة#
+. [.arabic]#المعتقة#
 
 include::hadith_references.adoc[]
 include::questions-and-answers.adoc[]
