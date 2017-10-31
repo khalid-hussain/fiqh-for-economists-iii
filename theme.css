@@ -5,6 +5,7 @@
 span.arabic{
   font-family: Scheherazade, "Traditional Arabic";
   font-size: 1.8em;
+  direction: rtl;
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}

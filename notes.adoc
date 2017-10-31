@@ -2,6 +2,8 @@
 Khalid Hussain <mohammad.khalid.hussain@gmail.com>
 :imagesdir: assets/images
 :toc: left
+:icons: font
+:stem:
 
 == General
 
@@ -163,6 +165,10 @@ Marrying a slave-girl is not allowed except in TWO cases:
 
 // Insert ḥadīth of parent and children that cannot be turned into slaves.
 
+== 30 October 2017 (Monday)
+
+=== Inheritance (Cont'd)
+
 ==== Heirs
 
 .Types of Inheriting Heirs
@@ -170,33 +176,62 @@ Marrying a slave-girl is not allowed except in TWO cases:
 . Females (10 of them)
 
 .Males
-. [.arabic]#الإبن#
-. [.arabic]#ابن الإبن (وإن نزل)#
-. [.arabic]#الأب#
-. [.arabic]#أب الأب (وأن علا بمحض الذكور)#
-. [.arabic]#الأخ من الأبوين#
-. [.arabic]#الأخ من الأب#
-. [.arabic]#الأخ من الأم#
-. [.arabic]#ابن الأخ من الأبوين (وإن نزل)#
-. [.arabic]#ابن الأخ من الأب (وإن نزل)#
-. [.arabic]#العم من الأبوين (وإن علا)#
-. [.arabic]#العم من الأب (وإن علا)#
-. [.arabic]#ابن العم من الأبوين (وإن نزل)#
-. [.arabic]#ابن العم من الأب (وإن نزل)#
-. [.arabic]#الزوج#
+. Son [.arabic]#الإبن#
+. Son's Son [.arabic]#ابن الإبن (وإن نزل)#
+. Father [.arabic]#الأب#
+. Father's Father [.arabic]#أب الأب (وأن علا بمحض الذكور)#
+. Full Brother [.arabic]#الأخ من الأبوين#
+. Consanguine Brother [.arabic]#الأخ من الأب#
+. Uterine Brother [.arabic]#الأخ من الأم#
+. Full Brother's Son [.arabic]#ابن الأخ من الأبوين (وإن نزل)#
+. Consanguine Brother's Son [.arabic]#ابن الأخ من الأب (وإن نزل)#
+. Father's Full Brother [.arabic]#العم من الأبوين (وإن علا)#
+. Fathers' Consanguine Brother [.arabic]#العم من الأب (وإن علا)#
+. Father's Full Brother's Son [.arabic]#ابن العم من الأبوين (وإن نزل)#
+. Father's Consanguine Brother's Son [.arabic]#ابن العم من الأب (وإن نزل)#
+. Husband [.arabic]#الزوج#
 . [.arabic]#المعتِق#
 
 .Females
-. [.arabic]#البنت#
-. [.arabic]#بنت الأبن (وإن نزل)#
-. [.arabic]#الأم#
-. [.arabic]#أم الأم (وإن علت بمحض الإناث)#
-. [.arabic]#أم الأب (وإن علت بمحض الإناث) أو أم الأب (وإن علا بمحض الذكور)#
-. [.arabic]#الأخت من الأبوين#
-. [.arabic]#الأخت من الأب#
-. [.arabic]#الأخت من الأم#
-. [.arabic]#الزوجة#
+. Daughter [.arabic]#البنت#
+. Son's Daughter [.arabic]#بنت الأبن (وإن نزل)#
+. Mother [.arabic]#الأم#
+. Mother's Mother [.arabic]#أم الأم (وإن علت بمحض الإناث)#
+. Father's Mother [.arabic]#أم الأب (وإن علت بمحض الإناث) أو أم الأب (وإن علا بمحض الذكور)#
+. Full Sister [.arabic]#الأخت من الأبوين#
+. Consanguine Sister [.arabic]#الأخت من الأب#
+. Uterine Sister [.arabic]#الأخت من الأم#
+. Wife [.arabic]#الزوجة#
 . [.arabic]#المعتقة#
+
+NOTE: Any (grand)mother that is connected to someone who inherits, will inherit.
+
+.Types of portions for inheritors
+. _Taʾsīb_ — without fixed portion
+.. All the males (15) are included here *except* the husband (-1), uterine brother (-1). Al-Muʿtiqah (+1) is also here. *Total of 14*.
+. _Farḍ_ — with fixed portion
+.. All the females (10) are included here *except* al-Muʿtiqah (-1). The husband (+1) and uterine brother(+1) are also included. *Total of 11*.
+
+==== Calculations
+
+===== Al-Furūḍ al-Muqaddarah
+There are 6. They are stem:[\frac{1}{2}], stem:[\frac{1}{4}], stem:[\frac{1}{6}], stem:[\frac{1}{8}], stem:[\frac{1}{3}] and stem:[\frac{2}{3}].
+
+===== Uṣūl al-Masāʾil
+
+There are two divisions:
+
+1. SEVEN Agreed upon bases: stem:[2, 3, 4, 6, 8, 12, 24].
+2. TWO Disagreed upon bases: stem:[18, 36].
+
+==== Al-Furūḍ's Distribution
+
+===== stem:[1/2]
+
+. Daughter
+.. On condition that she's the only child.
+. Son's Daughter
+.. On condition that she's the only child and only grandchild.
 
 include::hadith_references.adoc[]
 include::questions-and-answers.adoc[]
