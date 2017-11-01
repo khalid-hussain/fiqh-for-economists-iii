@@ -78,7 +78,7 @@ According to (some) Ḥanafīs, _Zakāt_ must be paid on all wealth irrespective
 
 .NOTE: I don't know the name of this list
 . [.arabic]#مؤن التجهيز#
-.. Anything the deceased needs until burial. Examples: perfume, ghusl, transport, _kafn_, grave (if it needs to be bought), and wages for gravediggers.
+.. Anything the deceased needs until burial. Examples: perfume, _ghusl_, transport, _kafn_, grave (if it needs to be bought), and wages for gravediggers.
 . [.arabic]#الديول المتعلقة بالتركة عينها#
 .. If Zayd lent money to ʿAmr with the latter's car as guarantee, then that car is part of the estate in the case of ʿAmr's death.
 . [.arabic]#الديول المطلقة في ذمة الميت، (لله أولادمي)#
@@ -113,16 +113,16 @@ Ustadh Ibrahim has written an article along the lines of “Law of Inheritance f
 The important aspect of a foetus with respect to inheritance is that it exists in the womb at the time of the death of the deceased. We are not concerned with whether it is born dead or alive. (Clarification: If born dead, who takes his share?)
 
 .[.arabic]#أسباب الإرث#
-.. [.arabic]#النكاح#
-.. [.arabic]#النسب#
-.. [.arabic]#ولاء#
+. [.arabic]#النكاح#
+. [.arabic]#النسب#
+. [.arabic]#ولاء#
 
 Assuming at least one of the [.arabic]#أسباب# is present, only the following may deprive one of inheritance.
 
 .Inheritance Deprivers
-.. _Kufr_
-.. Murder
-.. Slavery
+. _Kufr_
+. Murder
+. Slavery
 
 == 25 October 2017 (Wednesday)
 
