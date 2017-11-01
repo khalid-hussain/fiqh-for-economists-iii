@@ -5,7 +5,7 @@ Khalid Hussain <mohammad.khalid.hussain@gmail.com>
 :icons: font
 :stem:
 
-== General
+== General Information
 
 .[.arabic]#حقائق#
 . [.arabic]#حقيقة لغوية#
