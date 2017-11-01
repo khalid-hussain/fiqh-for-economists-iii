@@ -1,4 +1,5 @@
 *.html
+!index.html
 
 new_slides/*.aux
 new_slides/*.nav
