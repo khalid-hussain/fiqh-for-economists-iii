@@ -224,14 +224,49 @@ There are two divisions:
 1. SEVEN Agreed upon bases: stem:[2, 3, 4, 6, 8, 12, 24].
 2. TWO Disagreed upon bases: stem:[18, 36].
 
+== 1 November 2017 (Wednesday)
+
+=== Inheritance (Cont'd)
+
+==== Categories of Heirs
+
+NOTE: All of the relations mentioned from here on are in relation to the deceased.
+
+===== Al-Uṣūl ([.arabic]#الأصول#)
+. Father (F)
+. Father's Father (FF)
+. Mother (M)
+. Mother's Mother (MM)
+. Father's Mother (FM)
+
+===== Al-Furūʿ ([.arabic]#الفروع#)
+. Son (S)
+. Daughter (D)
+. Son's Son (SS)
+. Son's Daughter (SD)
+
+===== Al-Hawāshī ([.arabic]#هواشي#)
+Everyone else.
+
 ==== Al-Furūḍ's Distribution
 
-===== stem:[1/2]
+===== Half
 
 . Daughter
-.. On condition that she's the only child.
+.. Only if she's the only child.
 . Son's Daughter
-.. On condition that she's the only child and only grandchild.
+.. Only if she's the only child and only grandchild.
+. Full Sister
+.. No male _ʿaṣl_ is alive.
+.. No _farʿ_ is alive.
+.. No full sibling.
+. Consanguine Sister
+.. No male _ʿaṣl_ is alive.
+.. No _farʿ_ is alive.
+.. No full sibling.
+.. No other consanguine sibling.
+. Husband
+.. No _farʿ_ is alive.
 
 include::hadith_references.adoc[]
 include::questions-and-answers.adoc[]
