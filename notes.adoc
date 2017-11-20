@@ -12,9 +12,7 @@ Khalid Hussain <mohammad.khalid.hussain@gmail.com>
 . [.arabic]#حقيقة شرعية#
 . [.arabic]#حقيقة عرفية#
 
-== 18 September 2017 (Monday)
-
-=== Waqf
+== Waqf
 
 [.lead]
 Def.: A permanent dedication of the corpus of the valuable property by a Muslim to the ownership of Allah for religious, charitable, and pious purposes.
@@ -23,58 +21,52 @@ Def.: A permanent dedication of the corpus of the valuable property by a Muslim 
 * Only the income produced by Waqf property can be consumed. The Waqf property itself cannot be consumed.
 * Charity to family members is better than charity to strangers. Please see _ḥadīth_ of <<dirham-hadith, Abū Hurayrah>>.
 
-== 20 September 2017 (Wednesday)
-
 .Pillars of Waqf
 . Founder [.arabic]#واقف#
 . Waqf property [.arabic]#موقوف#
 . Beneficiaries [.arabic]#موقوف عليه#
 . Expression [.arabic]#صيغة#
 
-== 25 September 2017 (Monday)
+NOTE: The conditions of the [.arabic]#واقف# must be respected unless they are invalid Sharīʿah wise.
 
-The conditions of the [.arabic]#واقف# must be respected unless they are invalid Sharīʿah wise.
-
-== 27 September 2017 (Wednesday)
-
-Waṣiyyah existed in the nations before the Prophet Muhammad (Peace be upon him). See hadith of <<wasiyyah-nuh, ʿAbdullāh ibn ʿAmr>>.
-
-== 2 October 2017 (Monday)
-
-NOTE: _Kafārah_ exists even for actions that are considered _muʿāmalāt_. Example: _al-Ẓihār_.
-
-=== Al-Waṣiyyah
+== Al-Waṣiyyah
 
 [.lead]
 Def: A gift that is given after the death of the [.arabic]#موصي#.
 
+Waṣiyyah existed in the nations before the Prophet Muhammad (Peace be upon him). See hadith of <<wasiyyah-nuh, ʿAbdullāh ibn ʿAmr>>.
+
+NOTE: _Kafārah_ exists even for actions that are considered _muʿāmalāt_. Example: _al-Ẓihār_.
+
 . It is a gift from Allah the Mighty and Exalted.
 . It cannot be given to an heir who will inherit. The distinction is important in English as there can be heirs who will not inherit anything.
-. The limit of _waṣiyyah_ is 1/3 of the [.arabic]#مال#. Evidence for this is the _ḥadīth_ of <<will-limit, Saʿd ibn Abī Waqqās>>
+. The limit of _waṣiyyah_ is stem:[1/3] of the [.arabic]#مال#. Evidence for this is the _ḥadīth_ of <<will-limit, Saʿd ibn Abī Waqqās>>
 
-==== Waṣiyyah that is greater than one-third
+[IMPORTANT]
+.Waṣiyyah that is greater than one-third
+====
+If *directed to a stranger*, will be given if all the heirs AGREE, otherwise, it will be *reduced to the maximum*, i.e. one-third, and then given.
 
-If directed to a stranger, will be given if all the heirs AGREE, otherwise, it will be reduced to the maximum, i.e. one-third, and then given.
+If *directed to an heir* (who will inherit), it will be given if all the other heirs AGREE, otherwise it will be *invalidated*.
+====
 
-If directed to an heir (who will inherit), it will be given if all the other heirs AGREE, otherwise it will be invalidated.
-
-== 4 October 2017 (Wednesday)
+== Wardship
 
 It is not recommended to become a guardian of orphans' wealth. See the ḥadīth of <<abu-dharr-leadership, Abū Dharr>>.
 
-=== Wardship
-
-. The benefit of the child comes first. Preservation of religion is the greatest benefit.
-
-==== Custody
-
-. Who has right to custody after divorce (EXPAND ON THIS SECTION)
-
-== 9 October 2017 (Monday)
+The benefit of the child comes first. Preservation of religion is the greatest benefit.
 
 A person cannot buy from his ward since there is a clash of interests.
 
 According to (some) Ḥanafīs, _Zakāt_ must be paid on all wealth irrespective of who it belongs to. Be they a ward, an insane person, etc...
+
+=== Custody
+. Who has right to custody after divorce (EXPAND ON THIS SECTION)
+
+== Inheritance
+
+[.lead]
+[.arabic]#حق مالي ثبت لمستحق بعد موت من كان له سلة بينهما#
 
 .NOTE: I don't know the name of this list
 . [.arabic]#مؤن التجهيز#
@@ -84,13 +76,6 @@ According to (some) Ḥanafīs, _Zakāt_ must be paid on all wealth irrespective
 . [.arabic]#الديول المطلقة في ذمة الميت، (لله أولادمي)#
 . [.arabic]#وصية الميت#
 . [.arabic]#نصيب ورثة الميت#
-
-== 11 October 2017 (Wednesday)
-
-=== Inheritance
-
-[.lead]
-[.arabic]#حق مالي ثبت لمستحق بعد موت من كان له سلة بينهما#
 
 Memorize the following ayāt:
 
@@ -106,16 +91,14 @@ ____
 
 Ustadh Ibrahim has written an article along the lines of “Law of Inheritance from the Book of Allah.” In it, he extracts almost all of the rulings of Inheritance from the Quran without depending on ḥadīth narrations. I have yet to download this and read it.
 
-== 23 October 2017 (Monday)
-
-=== Inheritance (Cont'd)
-
-The important aspect of a foetus with respect to inheritance is that it exists in the womb at the time of the death of the deceased. We are not concerned with whether it is born dead or alive. (Clarification: If born dead, who takes his share?)
+IMPORTANT: The important aspect of a foetus with respect to inheritance is that it exists in the womb at the time of the death of the deceased. We are not concerned with whether it is born dead or alive. (Clarification: If born dead, who takes his share?)
 
 .[.arabic]#أسباب الإرث#
 . [.arabic]#النكاح#
 . [.arabic]#النسب#
 . [.arabic]#ولاء#
+
+=== Deprivers
 
 Assuming at least one of the [.arabic]#أسباب# is present, only the following may deprive one of inheritance.
 
@@ -124,11 +107,9 @@ Assuming at least one of the [.arabic]#أسباب# is present, only the followin
 . Murder
 . Slavery
 
-== 25 October 2017 (Wednesday)
-
-=== Inheritance (Cont'd)
-
 The murder that is intended when discussing the deprivation of inheritance is the murder of the deceased by one or more of his inheriting heirs.
+
+==== Murder
 
 .Types of Murder
 . [.arabic]#العَمْدُ# Intentional
@@ -137,9 +118,8 @@ The murder that is intended when discussing the deprivation of inheritance is th
 
 According to the Shāfiʿīs, murder of any of these kinds deprives a person from inheritance irrespective of his position to the murder (witness, judge, witness of behavior to a witness, etc...) except for TWO people:
 
-. A ḥadīth narrator (al-Rāwī)
+. A _ḥadīth_ narrator (al-Rāwī)
 . A Muftī who passes judgement of death (This requires clarification)
-
 
 ==== Slavery
 
@@ -158,18 +138,19 @@ According to the Shāfiʿīs, murder of any of these kinds deprives a person fro
 ... Can she be sold?
 ... Does she become free when you die? Yes. The slave is part of the estate of the master and as such will be inherited. Since children cannot enslave their parents and vice versa, the mother will be manumitted. This answer assumes that at least one child will inherit her.
 
+
+[NOTE]
+.Marrying a slave-girl
+====
 Marrying a slave-girl is not allowed except in TWO cases:
 
 . If he cannot afford to marry a free woman.
 . He fears with certainty that he will commit _zinā_ if he doesn't marry the slave-girl.
 
 // Insert ḥadīth of parent and children that cannot be turned into slaves.
+====
 
-== 30 October 2017 (Monday)
-
-=== Inheritance (Cont'd)
-
-==== Heirs
+=== Heirs
 
 .Types of Inheriting Heirs
 . Males (15 of them)
@@ -206,67 +187,112 @@ Marrying a slave-girl is not allowed except in TWO cases:
 
 NOTE: Any (grand)mother that is connected to someone who inherits, will inherit.
 
+.Categories
+. [.arabic]#الأصول# - F, FF, M, MM, FM
+. [.arabic]#الفروع# - S, D, SS, SD
+. [.arabic]#هواشي# - Everyone else
+
 .Types of portions for inheritors
 . _Taʾsīb_ — without fixed portion
 .. All the males (15) are included here *except* the husband (-1), uterine brother (-1). Al-Muʿtiqah (+1) is also here. *Total of 14*.
 . _Farḍ_ — with fixed portion
 .. All the females (10) are included here *except* al-Muʿtiqah (-1). The husband (+1) and uterine brother(+1) are also included. *Total of 11*.
 
-==== Calculations
+=== Al-Furūḍ al-Muqaddarah
 
-===== Al-Furūḍ al-Muqaddarah
 There are 6. They are stem:[\frac{1}{2}], stem:[\frac{1}{4}], stem:[\frac{1}{6}], stem:[\frac{1}{8}], stem:[\frac{1}{3}] and stem:[\frac{2}{3}].
 
-===== Uṣūl al-Masāʾil
+=== Uṣūl al-Masāʾil
 
 There are two divisions:
 
 1. SEVEN Agreed upon bases: stem:[2, 3, 4, 6, 8, 12, 24].
 2. TWO Disagreed upon bases: stem:[18, 36].
 
-== 1 November 2017 (Wednesday)
+=== Al-Furūḍ's Distribution
 
-=== Inheritance (Cont'd)
-
-==== Categories of Heirs
-
-NOTE: All of the relations mentioned from here on are in relation to the deceased.
-
-===== Al-Uṣūl ([.arabic]#الأصول#)
-. Father (F)
-. Father's Father (FF)
-. Mother (M)
-. Mother's Mother (MM)
-. Father's Mother (FM)
-
-===== Al-Furūʿ ([.arabic]#الفروع#)
-. Son (S)
-. Daughter (D)
-. Son's Son (SS)
-. Son's Daughter (SD)
-
-===== Al-Hawāshī ([.arabic]#هواشي#)
-Everyone else.
-
-==== Al-Furūḍ's Distribution
-
-===== Half
+==== 1/2
 
 . Daughter
-.. Only if she's the only child.
+.. On condition that she's the only child.
 . Son's Daughter
-.. Only if she's the only child and only grandchild.
+.. On condition that she's the only child and only grandchild.
 . Full Sister
-.. No male _ʿaṣl_ is alive.
-.. No _farʿ_ is alive.
-.. No full sibling.
+.. No male _ʿAṣl_ is alive.
+.. No _Farʿ_ is alive.
+.. No other full sibling.
 . Consanguine Sister
-.. No male _ʿaṣl_ is alive.
-.. No _farʿ_ is alive.
-.. No full sibling.
+.. No male _ʿAṣl_ is alive.
+.. No _Farʿ_ is alive.
+.. No full siblings.
 .. No other consanguine sibling.
 . Husband
-.. No _farʿ_ is alive.
+.. No _Farʿ_ is alive.
+
+==== 1/4
+
+. Husband
+. Wife
+
+==== 1/8
+
+. Wife
+.. {Existence of _Farʿ al-Wārith_}
+
+==== 2/3
+
+. Everyone under 1/2 except the husband.
+.. No other male siblings.
+.. Other female (full?/consanguine?) siblings should be present
+.. Other conditions from 1/2 apply.
+
+==== 1/3
+
+. Mother
+.. No child or grandchild ([.arabic]#وإن نزل#).
+.. There shouldn't be a group of more than one sibling (any kind: consanguine, full, or uterine).
+.. The inheritance case should not be from the ([.arabic]#الغرويين#).
+. Uterine siblings (weakest entities in inheritance matters)
+.. No male _ʿAṣl_ is alive.
+.. No child or grandchild ([.arabic]#وإن نزل#).
+.. They have to be more than one.
+.. The principle of one male to two females ratio doesn't apply here.
+
+==== 1/6
+
+. Father
+.. Only when there is a child or grandchild ([.arabic]#وإن نزل#).
+. Mother
+.. When there is [.arabic]#فرع الوارث#..
+.. If there is a group of more than one sibling.
+. Father's Father
+.. Father is not alive.
+.. No [.arabic]#فرع الوارث#. exist.
+.. The inheritance case should not be the case of [.arabic]#الجد والإخوة#.
+. Any Grandmother
+.. Mother is not alive.
+. Son's Daughter
+.. No male child or male grandchild ([.arabic]#وإن نزل#).
+.. The deceased is survived by only one daughter.
+. Consanguine Sister
+.. No male _ʿAṣl_.
+.. No [.arabic]#فرع الوارث#. exist.
+.. No (consanguine or full) male sibling.
+.. Only one full sister exists.
+. Uterine Sibling
+.. No male _ʿAṣl_.
+.. No [.arabic]#فرع الوارث#. exist.
+.. He/She has to be the only sibling.
+
+=== Al-Taʿṣīb (ʿAṣabah)
+
+.Types of ʿAṣabah
+. ʿAṣabah bi al-Nafs [.arabic]#عصبة بالنفس#
+.. Every male except husband and uterine brother.
+. ʿAṣabah bi al-Ghayr [.arabic]#عصبة بالغير#
+.. They are ʿaṣīb due to another person and they inherit with them (the same portion is assigned to both).
+. ʿAṣabah maʿ al-Ghayr [.arabic]#عصبة مع غير#
+.. They are ʿaṣīb due to another person and they inherit due to them (different portions are assigned to them).
 
 include::hadith_references.adoc[]
 include::questions-and-answers.adoc[]
