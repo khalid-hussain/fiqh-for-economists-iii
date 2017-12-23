@@ -193,7 +193,7 @@ NOTE: Any (grand)mother that is connected to someone who inherits, will inherit.
 . [.arabic]#هواشي# - Everyone else
 
 .Types of portions for inheritors
-. _Taʾsīb_ — without fixed portion
+. _Taʿṣīb_ — without fixed portion
 .. All the males (15) are included here *except* the husband (-1), uterine brother (-1). Al-Muʿtiqah (+1) is also here. *Total of 14*.
 . _Farḍ_ — with fixed portion
 .. All the females (10) are included here *except* al-Muʿtiqah (-1). The husband (+1) and uterine brother(+1) are also included. *Total of 11*.
@@ -227,17 +227,23 @@ There are two divisions:
 .. No full siblings.
 .. No other consanguine sibling.
 . Husband
-.. No _Farʿ_ is alive.
+.. The deceased has no _farʿ_.
+.. Cannot be blocked.
 
 ==== 1/4
 
 . Husband
+.. The deceased has _farʿ_.
+.. Cannot be blocked.
 . Wife
+.. The deceased has no _farʿ_.
+.. Cannot be blocked.
 
 ==== 1/8
 
 . Wife
-.. {Existence of _Farʿ al-Wārith_}
+.. The deceased has _farʿ_.
+.. Cannot be blocked.
 
 ==== 2/3
 
@@ -263,11 +269,11 @@ There are two divisions:
 . Father
 .. Only when there is a child or grandchild ([.arabic]#وإن نزل#).
 . Mother
-.. When there is [.arabic]#فرع الوارث#..
+.. When there is [.arabic]#فرع الوارث#.
 .. If there is a group of more than one sibling.
 . Father's Father
 .. Father is not alive.
-.. No [.arabic]#فرع الوارث#. exist.
+.. No [.arabic]#فرع الوارث# exist.
 .. The inheritance case should not be the case of [.arabic]#الجد والإخوة#.
 . Any Grandmother
 .. Mother is not alive.
@@ -276,24 +282,32 @@ There are two divisions:
 .. The deceased is survived by only one daughter.
 . Consanguine Sister
 .. No male _ʿAṣl_.
-.. No [.arabic]#فرع الوارث#. exist.
+.. No [.arabic]#فرع الوارث# exist.
 .. No (consanguine or full) male sibling.
 .. Only one full sister exists.
 . Uterine Sibling
 .. No male _ʿAṣl_.
-.. No [.arabic]#فرع الوارث#. exist.
+.. No [.arabic]#فرع الوارث# exist.
 .. He/She has to be the only sibling.
 
 === Al-Taʿṣīb (ʿAṣabah)
+
+[.lead]
+Literal meaning: the tightening.
 
 .Types of ʿAṣabah
 . ʿAṣabah bi al-Nafs [.arabic]#عصبة بالنفس#
 .. Every male except husband and uterine brother.
 . ʿAṣabah bi al-Ghayr [.arabic]#عصبة بالغير#
 .. They are ʿaṣīb due to another person and they inherit with them (the same portion is assigned to both).
+.. The groups are {S, D}, {SS, SD}, {FB, FS}, and {CB, CS}.
+.. When a group exists, they share the inheritance [and the ratio of 1:2 doesn't apply.] (CLARIFY)
 . ʿAṣabah maʿ al-Ghayr [.arabic]#عصبة مع غير#
 .. They are ʿaṣīb due to another person and they inherit due to them (different portions are assigned to them).
+.. They are upgraded to the rank of their male counterpart.
+.. .Groups are {FS with D or SD}
 
+include::inheritance_calculations.adoc[]
 include::hadith_references.adoc[]
 include::questions-and-answers.adoc[]
 include::_glossary.adoc[]
