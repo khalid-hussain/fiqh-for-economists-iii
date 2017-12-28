@@ -509,6 +509,9 @@
 |===
 2+| ^|stem:[]
 
-|stem:[] | | stem:[]
+|stem:[] |2D  | stem:[]
+|stem:[] |CS  | stem:[]
+|stem:[] |M   | stem:[]
+|stem:[] |FBS | stem:[]
 |===
 
