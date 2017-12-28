@@ -461,34 +461,46 @@
 |===
 2+| ^|stem:[]
 
-|stem:[] | | stem:[]
+|stem:[1/2] |D  | stem:[]
+|stem:[1/4] |H  | stem:[]
+|stem:[1/6] |FF | stem:[]
+|stem:[{B}] |FB | stem:[]
 |===
 
 ==== 39
 
 [cols=">,<,^", width=25%]
 |===
-2+| ^|stem:[]
+2+| ^|stem:[24]
 
-|stem:[] | | stem:[]
+|stem:[2/3] |2D | stem:[16]
+|stem:[1/8] |W  | stem:[3]
+|stem:[1/6] |FF | stem:[4]
+|stem:[{B}] |FS | stem:[1]
 |===
 
-==== 40
+==== 40 (Al-Aqdariyyah)
 
-[cols=">,<,^", width=25%]
+[cols=">,<,^, ^", width=25%]
 |===
-2+| ^|stem:[]
+2+| ^|stem:[6] ^|9
 
-|stem:[] | | stem:[]
+|stem:[1/2] |H  | stem:[3] | stem:[3]
+|stem:[1/3] |M  | stem:[2] | stem:[2]
+|stem:[1/6] |FF | stem:[1] | stem:[1]
+|stem:[1/2] |FS | stem:[3] | stem:[3]
 |===
 
 ==== 41
 
-[cols=">,<,^", width=25%]
+[cols=">,<,^,^", width=25%]
 |===
-2+| ^|stem:[]
+2+| ^|stem:[24] ^|stem:[24 \times 3 = 72]
 
-|stem:[] | | stem:[]
+|stem:[1/2] |SD  | stem:[12] | stem:[36]
+|stem:[1/8] |W   | stem:[3]  | stem:[9]
+|stem:[1/6] |FF  | stem:[4]  | stem:[12]
+|stem:[{B}] |3FS | stem:[5]  | stem:[15]
 |===
 
 ==== 42
@@ -500,29 +512,3 @@
 |stem:[] | | stem:[]
 |===
 
-==== 43
-
-[cols=">,<,^", width=25%]
-|===
-2+| ^|stem:[]
-
-|stem:[] | | stem:[]
-|===
-
-==== 44
-
-[cols=">,<,^", width=25%]
-|===
-2+| ^|stem:[]
-
-|stem:[] | | stem:[]
-|===
-
-==== 45
-
-[cols=">,<,^", width=25%]
-|===
-2+| ^|stem:[]
-
-|stem:[] | | stem:[]
-|===
