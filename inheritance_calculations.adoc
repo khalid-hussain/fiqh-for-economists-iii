@@ -73,7 +73,7 @@
 |===
 2+| ^|24 | stem:[24 \times 3 = 72]
 
-.3+.^|stem:[1/6]  |MMM .3+.^|stem:[4] |4
+.3+.^|stem:[1/6 (1:1:1)]  |MMM .3+.^|stem:[4] |4
 <|FMM ^| 4
 <|FFM ^| 4
 |stem:[2/3] |2D | stem:[16] | 48
@@ -112,7 +112,7 @@
 
 |stem:[1/2]       |D  | stem:[3]
 |stem:[1/6]       |SD | stem:[1]
-|stem:[1/6 + {B}] |F  | stem:[2 + {0}]
+|stem:[1/6 + {B}] |F  | stem:[1 + {1}]
 |===
 
 ==== 11
@@ -202,7 +202,7 @@
 |===
 2+| ^|stem:[3]
 
-.2+.^|stem:[{B}] |S  | stem:[2]
+.2+.^|stem:[{B}(2:1)] |S  | stem:[2]
               <|D ^| stem:[1]
 |stem:[\emptyset] |SS | stem:[-]
 |stem:[\emptyset] |SD | stem:[-]
@@ -227,4 +227,302 @@
 
 |stem:[1/3] |M | stem:[1]
 |stem:[{B}] |F | stem:[2]
+|===
+
+==== 21
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/4] |H  | stem:[]
+|stem:[1/2] |D  | stem:[]
+|stem:[]    |FS | stem:[]
+|stem:[]    |CB | stem:[]
+|stem:[]    |UB | stem:[]
+|===
+
+==== 22
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] |FMM  | stem:[]
+|stem:[] |FFM  | stem:[]
+|stem:[] |MM   | stem:[]
+|stem:[] |SD   | stem:[]
+|stem:[] |FS   | stem:[]
+|===
+
+==== 21
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[2]
+
+|stem:[{B}]       |FF    | stem:[{1}]
+|stem:[1/2]       |M   .^| stem:[1]
+|stem:[\emptyset] |MM    | stem:[-]
+|stem:[\emptyset] |FFM   | stem:[-]
+|stem:[\emptyset] |FMM   | stem:[-]
+|===
+
+==== 22
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] |M  | stem:[]
+|stem:[] |FF | stem:[]
+|stem:[] |FB | stem:[]
+|===
+
+==== 23
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] |D  | stem:[]
+|stem:[] |FF | stem:[]
+|stem:[] |FS | stem:[]
+|===
+
+==== 24
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/4] |W  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 25
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/4] |W   | stem:[]
+|stem:[1/6] |GM  | stem:[]
+|stem:[]    |FF  | stem:[]
+|stem:[]    |3CS | stem:[]
+|===
+
+==== 26
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/4] |W  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FB | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 27
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/2] |H  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FB | stem:[]
+|===
+
+==== 28
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/4] |W   | stem:[]
+|stem:[]    |FF  | stem:[]
+|stem:[]    |3FB | stem:[]
+|===
+
+==== 29
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[2/3] |2D | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 30
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/3] |M  | stem:[]
+|stem:[1/4] |W  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 31
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/2] |SD | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FB | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 32
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[2/3] |2D | stem:[]
+|stem:[1/8] |W  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 33
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/2] |D  | stem:[]
+|stem:[1/4] |H  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FB | stem:[]
+|===
+
+==== 34
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/2] |D   | stem:[]
+|stem:[1/6] |M   | stem:[]
+|stem:[]    |FF  | stem:[]
+|stem:[]    |2FB | stem:[]
+|===
+
+==== 35
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/2] |D  | stem:[]
+|stem:[1/6] |M  | stem:[]
+|stem:[]    |FF | stem:[]
+|stem:[]    |FB | stem:[]
+|stem:[]    |FS | stem:[]
+|===
+
+==== 36
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[1/2] |H  | stem:[]
+|stem:[1/3] |M  | stem:[]
+|stem:[1/6] |FF | stem:[]
+|stem:[1/2] |FS | stem:[]
+|===
+
+==== 37 (Troublesome)
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] |SD  | stem:[]
+|stem:[] |W   | stem:[]
+|stem:[] |FF  | stem:[]
+|stem:[] |3FS | stem:[]
+|===
+
+==== 38
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 39
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 40
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 41
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 42
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 43
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 44
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
+|===
+
+==== 45
+
+[cols=">,<,^", width=25%]
+|===
+2+| ^|stem:[]
+
+|stem:[] | | stem:[]
 |===
